@@ -20,5 +20,6 @@ To deploy this project you must have installed JAVA JDK into your system and in 
 - [Kodiererin](https://github.com/Kodiererin)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](![android-chrome-512x512](https://user-images.githubusercontent.com/110911377/218644358-c9deea45-7d72-481c-a794-d2252132b4e0.png)
+)
 
